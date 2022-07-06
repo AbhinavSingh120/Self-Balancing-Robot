@@ -14,5 +14,5 @@ The self-balancing machine resembles an inverted pendulum. This inverted pendulu
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
-Twitter - [Abhinoob_]()
+Twitter - [Abhinoob_]() <br />
 Project Link - https://github.com/AbhinavSingh120/Self-Balancing-Robot
