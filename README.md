@@ -18,7 +18,6 @@ The self-balancing machine resembles an inverted pendulum. This inverted pendulu
 
 ## Contents of the repository
 - PPT with details of the project
-- Code
 - Simulink model
 
 
